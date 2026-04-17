@@ -7,8 +7,8 @@ I'm interested in **mathematics, programming, game development, 3D modeling, cry
 
 ## About Me
 
-- Applied Mathematics student at the **University of São Paulo (USP)**
-- Game Dev at **EIC USP**
+- I'm an Applied Mathematics student at the **University of São Paulo (USP)**
+- I'm a Game Developer at **EIC USP**, working on educational games for all ages
 
 ---
 
