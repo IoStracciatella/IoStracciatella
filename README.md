@@ -1,6 +1,6 @@
 ## 👋 Oi
 
-My name is **Lucas**, and I'm an **Applied Mathematics student** from **Brazil 🇧🇷**.  
+I'm an **Applied Mathematics student** from **Brazil 🇧🇷**.  
 I'm interested in **mathematics, programming, game development, 3D modeling, cryptography, linguistics, and Middle Eastern history**.
 
 ---
