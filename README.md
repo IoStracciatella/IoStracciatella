@@ -16,5 +16,5 @@ I'm interested in **competitive programming, game development, 3D modeling, cryp
 
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48"/></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IoStracciatella&layout=pie&exclude_repo=CanalSingularidade&langs_count=10
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IoStracciatella&layout=pie&exclude_repo=CanalSingularidade&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
