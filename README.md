@@ -16,6 +16,5 @@ I'm interested in **competitive programming, game development, 3D modeling, cryp
 ## Languages and Tools
 
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48"/></p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="48" style="vertical-align: middle;"/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IoStracciatella&theme=tokyonight)
