@@ -2,6 +2,7 @@
 
 I'm an **Applied Mathematics student** from **Brazil 🇧🇷**.  
 I'm interested in **competitive programming, game development, 3D modeling, cryptography, topology, linguistics, and Middle Eastern history**.
+My repositories are for personnal projects, and codes that I make for my classes.
 
 ---
 
