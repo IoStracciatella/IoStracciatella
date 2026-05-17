@@ -8,7 +8,7 @@ I'm interested in **competitive programming, game development, 3D modeling, cryp
 ## More About Me...
 
 - I'm an Applied Mathematics student at the **University of São Paulo (USP)**
-- I'm a Game Developer at **EIC USP**, working on educational games 
+- I'm a Game Developer at **EIC USP**, working on educational games using Unity Engine
 - I really like 3D modeling and image editing, also competitive programming and geometric topology
 
 ---
