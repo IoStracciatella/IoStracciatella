@@ -8,9 +8,9 @@ My repositories are for personnal projects, and codes that I make for my classes
 
 ## More About Me...
 
-- I'm an Applied Mathematics student at the **University of São Paulo (USP)**
-- I'm a Game Developer at **EIC USP**, working on educational games using Unity Engine
-- Besides academic stuff, I also really like 3D modeling and image editing
+- I study at **University of São Paulo (USP)**
+- I'm a Game Developer at **EIC USP**. I work on educational games using Unity Engine
+- Besides the stuff I already said, I also really like 3D modeling and painting 
 
 ---
 
