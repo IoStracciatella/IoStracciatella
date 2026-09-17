@@ -10,11 +10,11 @@ My repositories are for personnal projects, and codes that I make for my classes
 
 - I study at **University of São Paulo (USP)**
 - I'm a Game Developer at **EIC USP**. I work on educational games using Unity Engine
-- Besides the stuff I already said, I also really like 3D modeling and painting 
+- Besides all that, I also really like 3D modeling and painting 
 
 ---
 
-## Languages and Tools
+## Languages and Tools I use
 
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48"/></p>
 
