@@ -1,16 +1,16 @@
-## Oi !
+## Oi!
 
-I'm an **Applied Mathematics student** from **Brazil 🇧🇷**.  
-I'm interested in **competitive programming, game development, 3D modeling, cryptography, topology, linguistics, and Middle Eastern history**.<br>
+I'm an Applied Mathematics student.
+I'm interested in **competitive programming, game development, 3D modeling, cryptography, topology, linguistics, and Middle Eastern history**.
 My repositories are for personnal projects, and codes that I make for my classes.
 
 ---
 
 ## More About Me...
 
-- I study at **University of São Paulo (USP)**
-- I'm a Game Developer at **EIC USP**. I work on educational games using Unity Engine
-- Besides all that, I also really like 3D modeling and painting 
+- I study at **University of São Paulo (USP)**.
+- I'm a Game Developer at **EIC USP**. I work on educational games using Unity Engine.
+- Besides all that, I also really like 3D modeling and drawing.
 
 ---
 
