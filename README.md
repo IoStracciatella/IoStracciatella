@@ -2,7 +2,8 @@
 
 I'm an Applied Mathematics student at University of São Paulo.
 I'm interested in **competitive programming, game development, 3D modeling, cryptography, topology, linguistics, and Middle Eastern history**.
-My repositories are for personnal projects, and codes that I make for my classes.
+I work as a Game Developer at **EIC USP**, developing educational games using Unity Engine.
+My repositories are for personnal projects, and codes that I make for my classes :)
 
 ---
 
